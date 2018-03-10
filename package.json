@@ -1,0 +1,24 @@
+{
+  "name": "generator-vagrant-chef-boilerplate",
+  "version": "0.1.0",
+  "description": "This generator will create Vagrantfile with Chef provision",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "vagrant",
+    "chef"
+  ],
+  "author": "mgreenshtein@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "~0.4.0",
+    "mkdirp": "^0.5.1",
+    "request": "~2.40.0",
+    "yeoman-generator": "^2.0.3"
+  }
+}
